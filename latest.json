@@ -1,10 +1,10 @@
 {
   "fileName": "IronRise-latest.apk",
   "versionName": "14.0.1",
-  "versionCode": 1409,
+  "versionCode": 1410,
   "buildType": "release",
   "apkUrl": "https://github.com/golcueray-ui/IronRiseOS-updates/releases/latest/download/IronRise-latest.apk",
-  "sha256": "03125da70bd34fbc409701cac5b56f46cb05437977606cf25ee6b1fa33acbf39",
-  "sizeBytes": 3492114,
-  "createdAt": "2026-06-16T19:09:17.499Z"
+  "sha256": "42a506151b914707de5be9cdd98a5fce9b75a84a4dc9eb4eb2951eaac25f331c",
+  "sizeBytes": 3492138,
+  "createdAt": "2026-06-16T19:22:01.459Z"
 }
